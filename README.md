@@ -1,14 +1,10 @@
 <h1 align="center">Olá! Meu nome é Gustavo Martins<br>Bem Vindo ao Meu GitHub👋</h1>
-
-<h2 align="left">Sobre mim</h2>
+<h3 align="left">Sobre mim</h3>
 <p align="left">
-  📚 Eu estou Estudando Análise e Desenvolvimento de Sistemas na Fatec Jales
+  - 📚 Eu estou Estudando Análise e Desenvolvimento de Sistemas na Fatec Jales
 </p>
-<div align="center">
+<div align="left">
   <h2>Ferramentas e Tecnologias</h2>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-stavo)](https://github.com/gu-stavo/github-readme-stats) 
-   <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -29,8 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />  
 </div>
-
-<h2 align="left">Estou Aprendendo</h2>
+<h3 align="left">Estou Aprendendo</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,9 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
 </div>
-
-###
-
 <br>
 
 ### Contatos:
