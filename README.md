@@ -4,12 +4,11 @@
 <p align="left">
   📚 Eu estou Estudando Análise e Desenvolvimento de Sistemas na Fatec Jales
 </p>
-
-<h2 align="left">Ferramentas e Tecnologias</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-stavo)](https://github.com/gu-stavo/github-readme-stats)
-
-<div align="left">
+<div align="center">
+  <h2>Ferramentas e Tecnologias</h2>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-stavo)](https://github.com/gu-stavo/github-readme-stats) 
+   <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -42,8 +41,8 @@
 </div>
 
 ###
-<h2 align="left">Contato:</h2>
-<div align="left">
+<div align="center" ><h3>Contato:</h3></div>
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-martins-da-silva-8b74b223b/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
