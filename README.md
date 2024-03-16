@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Meu nome é Gustavo Martins 👋 Bem Vindo ao Meu GitHub</h1>
+<h1 align="center">Olá! Meu nome é Gustavo Martins<br>Bem Vindo ao Meu GitHub👋</h1>
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">
   📚 Eu estou Estudando Análise e Desenvolvimento de Sistemas na Fatec Jales<br>
-  🎯 Goals: ...<br>
+  🎯 Objetivos: ...<br>
   🎲 Fun fact: ...
 </p>
 
@@ -39,9 +39,10 @@
 </div>
 
 ###
+<h2 align="left">Meu perfil do Linkedln</h2>
 <div align="left">
-  <h2>Meu perfil do Linkedln</h2>
   <a href="https://www.linkedin.com/in/gustavo-martins-da-silva-8b74b223b/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
