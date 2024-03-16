@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Olá! Meu nome é Gustavo Martins 👋 Bem Vindo ao Meu GitHub</h1>
+###
 
-<!--
-**gu-stavo/gu-stavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">About me</h2>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Ferramentas e Tecnologias</h2>
+<div align="left">
+ 
+</div>
+
+###
+
+<h2 align="left">Estou Aprendendo</h2>
+<div align="left">
+ 
+</div>
