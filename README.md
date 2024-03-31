@@ -1,7 +1,8 @@
 <h1 align="center">Olá! Meu nome é Gustavo Martins<br>Bem Vindo ao Meu GitHub👋</h1>
 <h3 align="left">Sobre mim</h3>
 <p align="left">
-  - 📚 Eu estou Estudando Análise e Desenvolvimento de Sistemas na Fatec Jales
+  - 👨‍💻📚 Estudante de Análise e Desenvolvimento de Sistemas
+  - 💫🖥️ Transformando ideias em realidade por meio da programação
 </p>
 <div align="left">
   <h2>Ferramentas e Tecnologias</h2>
