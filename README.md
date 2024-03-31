@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Meu nome é Gustavo Martins<br>Bem Vindo ao Meu GitHub👋</h1>
 <h3 align="left">Sobre mim</h3>
 <p align="left">
-  - 👨‍💻📚 Estudante de Análise e Desenvolvimento de Sistemas
+  - 👨‍💻📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
   - 💫🖥️ Transformando ideias em realidade por meio da programação
 </p>
 <div align="left">
