@@ -1,9 +1,16 @@
 <h1 align="center">Olá! Meu nome é Gustavo Martins<br>Bem Vindo ao Meu GitHub👋</h1>
 <h3 align="left">Sobre mim</h3>
 <p align="left">
-  - 👨‍💻📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  - 💫🖥️ Transformando ideias em realidade por meio da programação
+  - 👨‍💻📚 Formado em Análise e Desenvolvimento de Sistemas <br>
+  - 🚀 Sempre aprendendo e criando soluções inovadoras <br>
+  - 💫🖥️ Transformando ideias em realidade por meio da programação <br>
+  - 📊🔍 Analisando dados para gerar insights poderosos <br>
+  - 🎨✨ Design que comunica e transforma experiências
 </p>
+<div align="left">
+  <h2>Áreas de Atuação</h2>
+  🖥️ Dev | 📈 Analista de Dados | 🎨 Designer Gráfico
+</div>
 <div align="left">
   <h2>Ferramentas e Tecnologias</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
