@@ -46,6 +46,6 @@
 
 <h2>Contatos:</h2>
 <a href="https://www.linkedin.com/in/gustavo-martins-da-silva-8b74b223b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gustavo.silva372@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:gustavomartins.job@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
